@@ -30,7 +30,6 @@ transition: box-shadow 0.7s ease;
 .container .card img {
   padding: 3px;
   border-radius: 15px;
-  width: 100%;
 }
 .card-body h2 {
   font-weight: bold;
