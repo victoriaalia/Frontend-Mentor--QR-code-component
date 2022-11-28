@@ -28,7 +28,7 @@
 transition: box-shadow 0.7s ease;
 }
 .container .card img {
-  padding: 3px;
+  padding: 1rem;
   border-radius: 15px;
 }
 .card-body h2 {
