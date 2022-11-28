@@ -28,7 +28,7 @@
 transition: box-shadow 0.7s ease;
 }
 .container .card img {
-  padding: 1rem;
+  padding: 3px;
   border-radius: 15px;
   width: 100%;
 }
@@ -39,12 +39,12 @@ transition: box-shadow 0.7s ease;
   color: var(--dark-blue);
 }
 .card-body p {
-  font-weight: 400;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.5);
+  font-weight: 400;
 }
 
- /*Adaptable (responsive)*/
+ /*Adaptable (responsiv)*/
 @media screen and (max-width: 767px) {
   .navbar.brand {
       display: none;
